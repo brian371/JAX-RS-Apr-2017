@@ -19,4 +19,11 @@
   - [Using Patch](http://kingsfleet.blogspot.be/2014/02/transparent-patch-support-in-jax-rs-20.html)
   - [URIInfo and @Context](https://abhirockzz.wordpress.com/2015/05/03/using-context-in-jax-rs-part-1/)
   
+  ## Lab02.01 Extras
+  After completing the lab in the courseware:
+  1. Create an Artist class in the com.javatunes.domain package.  Include an id (Long) attribute along with other attributes (you decide). Besure to include equals() and toString() methods.
+  2. Update MusicItem, replacing the artist String with the Artist class. 
+  3. Update the static block in SearchUtility that creates MusicItem.  Create 2 or 3 Artist objects, assigning them at random.
+  
+  
   
