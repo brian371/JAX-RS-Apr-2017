@@ -23,7 +23,7 @@
   After completing the lab in the courseware:
   1. Create an Artist class in the com.javatunes.domain package.  Include an id (Long) attribute along with other attributes (you decide). Besure to include equals() and toString() methods.
   2. Update MusicItem, replacing the artist String with the Artist class. 
-  3. Update the static block in SearchUtility that creates MusicItem.  Create 2 or 3 Artist objects, assigning them at random.
+  3. Update the static block in SearchUtility that creates MusicItem.  Create 2 or 3 Artist objects, assigning them at random.  You will need to update the findByKeyword() method as well.
   
   
   
