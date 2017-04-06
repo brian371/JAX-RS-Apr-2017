@@ -1,8 +1,9 @@
 # JAX-RS-Apr-2017
 
-## REST
+## REST and JSON
   - [JavaScript and JSON Services - JEE not so much](https://dzone.com/articles/j2ee-dead-long-live-javascript)
   - [JSONPlaceholder - test site](http://jsonplaceholder.typicode.com/)
+  - [json.org](http://json.org)
   - [Designing a RESTful Web API](http://blog.luisrei.com/articles/rest.html)
   
   ## JAX-RS In General
