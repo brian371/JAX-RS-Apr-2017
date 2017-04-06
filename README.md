@@ -2,9 +2,8 @@
 
 ## REST
   - [JavaScript and JSON Services - JEE not so much](https://dzone.com/articles/j2ee-dead-long-live-javascript)
-  - [Designing a RESTful Web API](http://blog.luisrei.com/articles/rest.html)
   - [JSONPlaceholder - test site](http://jsonplaceholder.typicode.com/)
-  
+  - [Designing a RESTful Web API](http://blog.luisrei.com/articles/rest.html)
   
   ## JAX-RS In General
   - [Oracle's JEE 6 Tutorial on JAX-RS](https://docs.oracle.com/cd/E19798-01/821-1841/6nmq2cp1v/index.html)
