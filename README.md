@@ -17,5 +17,6 @@
   - [Path Segments and Matrix Parameters](http://memorynotfound.com/jaxrs-path-segments-matrix-parameters/)
   - [Streaming Responses](https://dzone.com/articles/jax-rs-streaming-response)
   - [Using Patch](http://kingsfleet.blogspot.be/2014/02/transparent-patch-support-in-jax-rs-20.html)
+  - [URIInfo and @Context](https://abhirockzz.wordpress.com/2015/05/03/using-context-in-jax-rs-part-1/)
   
   
