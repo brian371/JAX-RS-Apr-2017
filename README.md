@@ -18,12 +18,23 @@
   - [Streaming Responses](https://dzone.com/articles/jax-rs-streaming-response)
   - [Using Patch](http://kingsfleet.blogspot.be/2014/02/transparent-patch-support-in-jax-rs-20.html)
   - [URIInfo and @Context](https://abhirockzz.wordpress.com/2015/05/03/using-context-in-jax-rs-part-1/)
+  - [GenericEntity](http://www.adam-bien.com/roller/abien/entry/jax_rs_returning_a_list)
   
   ## Lab02.01 Extras
   After completing the lab in the courseware:
   1. Create an Artist class in the com.javatunes.domain package.  Include an id (Long) attribute along with other attributes (you decide). Besure to include equals() and toString() methods.
   2. Update MusicItem, replacing the artist String with the Artist class. 
   3. Update the static block in SearchUtility that creates MusicItem.  Create 2 or 3 Artist objects, assigning them at random.  You will need to update the findByKeyword() method as well.
+  
+  ## Lab03.03 Extra
+  The instructions in the book aren't that clear.  See the following site for an example:
+  1. [MKYong](http://www.mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/)
+  
+  Also, feel free to use Maven to get the required jars rather than manuall adding them.  Convert your project to a Maven project and then add the following to your pom.xml:
+  - jersey-client (1.19, not 1.19.3)
+  - jackson-jaxrs-json-provider
+  
+  
   
   
   
