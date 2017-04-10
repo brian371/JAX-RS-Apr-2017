@@ -21,6 +21,10 @@
   - [GenericEntity](http://www.adam-bien.com/roller/abien/entry/jax_rs_returning_a_list)
   - [HATEOAS](https://dzone.com/articles/hypermedia-support-in-jax-rs-20)
   
+  ## JAX-RS 2.0
+  [New Features](https://www.infoq.com/news/2013/06/Whats-New-in-JAX-RS-2.0)
+  [Restful Java With JAX-RS 2.0 (book)](https://www.gitbook.com/book/dennis-xlc/restful-java-with-jax-rs-2-0-2rd-edition/details)
+  
   ## Lab02.01 Extras
   After completing the lab in the courseware:
   1. Create an Artist class in the com.javatunes.domain package.  Include an id (Long) attribute along with other attributes (you decide). Besure to include equals() and toString() methods.
