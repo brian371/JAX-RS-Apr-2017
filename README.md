@@ -26,11 +26,15 @@
   2. Update MusicItem, replacing the artist String with the Artist class. 
   3. Update the static block in SearchUtility that creates MusicItem.  Create 2 or 3 Artist objects, assigning them at random.  You will need to update the findByKeyword() method as well.
   
+  ## Lab03.01 Extra
+  Just make the changes to the Lab02.01 project, rather than creating a new Lab03.01 project like the book says.  This way we still have all the Artist changes.  
+  
   ## Lab03.03 Extra
-  The instructions in the book aren't that clear.  See the following site for an example:
+  Make changes to the Lab02.01 project.  You may want to copy in TestRest.java from the Lab03.03 project into Lab02.01.
+  You can also see the following site for an example (and just wing it):
   1. [MKYong](http://www.mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/)
   
-  Also, feel free to use Maven to get the required jars rather than manuall adding them.  Convert your project to a Maven project and then add the following to your pom.xml:
+  Use Maven to get the required jars rather than manually adding them.  Add the following to your pom.xml:
   - jersey-client (1.19, not 1.19.3)
   - jackson-jaxrs-json-provider
   
