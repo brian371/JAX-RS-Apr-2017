@@ -19,6 +19,7 @@
   - [Using Patch](http://kingsfleet.blogspot.be/2014/02/transparent-patch-support-in-jax-rs-20.html)
   - [URIInfo and @Context](https://abhirockzz.wordpress.com/2015/05/03/using-context-in-jax-rs-part-1/)
   - [GenericEntity](http://www.adam-bien.com/roller/abien/entry/jax_rs_returning_a_list)
+  - [HATEOAS](https://dzone.com/articles/hypermedia-support-in-jax-rs-20)
   
   ## Lab02.01 Extras
   After completing the lab in the courseware:
