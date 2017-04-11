@@ -8,11 +8,12 @@
   - [Jackson vs Jettison notations](https://books.google.com/books?id=i2j5oKNkrKEC&pg=PA164&dq=jackson+notation,+jettison+notation,+badgerfish+notation&hl=en&sa=X&ved=0ahUKEwjxs7KI2ZzTAhUMw2MKHSBhBuwQ6AEIJDAA#v=onepage&q=jackson%20notation%2C%20jettison%20notation%2C%20badgerfish%20notation&f=false)
   - [jsonapi.org](http://jsonapi.org/)
   
-  ## JAX-RS In General
+  ## JAX-RS Documentation
   - [Oracle's JEE 6 Tutorial on JAX-RS](https://docs.oracle.com/cd/E19798-01/821-1841/6nmq2cp1v/index.html)
   - [Oracle's JEE 7 Tutorial on JAX-RS](https://docs.oracle.com/javaee/7/tutorial/jaxrs.htm)
-  - [What's New in JAX-RS 2.0](https://www.infoq.com/news/2013/06/Whats-New-in-JAX-RS-2.0)
   - [RESTEasy docs](http://resteasy.jboss.org/docs)
+  - [What's New in JAX-RS 2.0](https://www.infoq.com/news/2013/06/Whats-New-in-JAX-RS-2.0)
+  - [Restful Java With JAX-RS 2.0 (book)](https://www.gitbook.com/book/dennis-xlc/restful-java-with-jax-rs-2-0-2rd-edition/details)
   
   ## JAX-RS Techniques
   - [Using Regular Expressions in Path template variables](http://www.logicbig.com/tutorials/java-ee-tutorial/jax-rs/path-regex-matching/)
@@ -22,11 +23,7 @@
   - [URIInfo and @Context](https://abhirockzz.wordpress.com/2015/05/03/using-context-in-jax-rs-part-1/)
   - [GenericEntity](http://www.adam-bien.com/roller/abien/entry/jax_rs_returning_a_list)
   - [HATEOAS](https://dzone.com/articles/hypermedia-support-in-jax-rs-20)
-  
-  ## JAX-RS 2.0
-  - [New Features](https://www.infoq.com/news/2013/06/Whats-New-in-JAX-RS-2.0)
-  - [Restful Java With JAX-RS 2.0 (book)](https://www.gitbook.com/book/dennis-xlc/restful-java-with-jax-rs-2-0-2rd-edition/details)
-  
+    
   ## Lab02.01 Extras
   After completing the lab in the courseware:
   1. Create an Artist class in the com.javatunes.domain package.  Include an id (Long) attribute along with other attributes (you decide). Besure to include equals() and toString() methods.
