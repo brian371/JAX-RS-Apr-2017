@@ -6,6 +6,7 @@
   - [json.org](http://json.org)
   - [Designing a RESTful Web API](http://blog.luisrei.com/articles/rest.html)
   - [Jackson vs Jettison notations](https://books.google.com/books?id=i2j5oKNkrKEC&pg=PA164&dq=jackson+notation,+jettison+notation,+badgerfish+notation&hl=en&sa=X&ved=0ahUKEwjxs7KI2ZzTAhUMw2MKHSBhBuwQ6AEIJDAA#v=onepage&q=jackson%20notation%2C%20jettison%20notation%2C%20badgerfish%20notation&f=false)
+  - [jsonapi.org](http://jsonapi.org/)
   
   ## JAX-RS In General
   - [Oracle's JEE 6 Tutorial on JAX-RS](https://docs.oracle.com/cd/E19798-01/821-1841/6nmq2cp1v/index.html)
