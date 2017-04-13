@@ -49,7 +49,7 @@
   Skip.  This uses the xjc compiler to generate classes from and XML schema.
       
   ## Lab 05.02
-  Continue in Lab02.01 project. Special setup is needed to shape the name of JSON properties using @XMLElement annotations.  See:
+  Continue in Lab02.01. Special setup is needed to shape the name of JSON properties using @XMLElement annotations.  See:
       
   - [Stackoverflow question](http://stackoverflow.com/questions/19601370/jackson-unable-to-consider-xmlelement-while-serializing-to-json)
       
@@ -57,6 +57,19 @@
       
  Skip the optional parts.  
  
+ ## Lab 06.01
+ Continue in Lab02.01.  You will need to add a removeItem(Long id) method to SearchUtility.java.  You can copy this method from:
+ 
+     C:\StudentWork\REST\workspace\Lab06.1\src\com\javatunes\catalog\util\SearchUtility.java
+     
+ Note:  Don't copy over SearchUtility.java!!! We made changes to this in Lab 02.01 that you want to keep.
+ 
+ You will also need to copy over some skeleton methods from 
+
+          C:\StudentWork\REST\workspace\Lab06.1\src\com\javatunes\catalog\util\ItemResource.java
+          
+ into your Lab02.01 project as well.  You will need deleteItem, updateItem, createItem, and the copy methods.
+
  
   
   
