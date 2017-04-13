@@ -38,7 +38,7 @@
   You can also see the following site for an example (and just wing it):
   1. [MKYong](http://www.mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/)
   
-  Use Maven to get the required jars rather than manually adding them.  Add the following to your pom.xml:
+  Use Maven to get the required jars rather than manually adding them.  Add the following to your pom.xml, using a scope of provided so it doesn't mess up anything on the server:
   - jersey-client (1.19, not 1.19.3)
   - jackson-jaxrs-json-provider
   
@@ -58,6 +58,8 @@
  Skip the optional parts.  
  
  ## Lab 06.01
+ For the server part:
+ 
  Continue in Lab02.01.  You will need to add a removeItem(Long id) method to SearchUtility.java.  You can copy this method from:
  
      C:\StudentWork\REST\workspace\Lab06.1\src\com\javatunes\catalog\util\SearchUtility.java
@@ -68,7 +70,14 @@
 
           C:\StudentWork\REST\workspace\Lab06.1\src\com\javatunes\catalog\util\ItemResource.java
           
- into your Lab02.01 project as well.  You will need deleteItem, updateItem, createItem, and the copy methods.
+ into your Lab02.01 project as well.  You will need deleteItem, updateItem, createItem, and the copy methods, as well as the @Context UriInfo.
+ 
+ For the client part:
+    Copy over the code from
+    
+    C:\StudentWork\REST\workspace\Lab06.1-Client\src\com\javatunes\catalog\rest\client\TestRest.java
+    
+   To a second client file in Lab02.01.  I called it TestRest2.java.  This code will be completely separate from the code we did in Lab03.03
 
  
   
