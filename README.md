@@ -34,7 +34,7 @@
   Just make the changes to the Lab02.01 project, rather than creating a new Lab03.01 project like the book says.
   
   ## Lab03.03
-  Make changes to the Lab02.01 project.  You may want to copy in TestRest.java from the Lab03.03 project into Lab02.01.
+  Make changes to the Lab02.01 project.  You may want to copy in TestRest.java from the Lab03.03 project into Lab02.01 and rename it to TestRest1.java (we will have a TestRest2.java in a later lab)
   You can also see the following site for an example (and just wing it):
   1. [MKYong](http://www.mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/)
   
