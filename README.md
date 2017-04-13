@@ -24,16 +24,16 @@
   - [GenericEntity](http://www.adam-bien.com/roller/abien/entry/jax_rs_returning_a_list)
   - [HATEOAS](https://dzone.com/articles/hypermedia-support-in-jax-rs-20)
     
-  ## Lab02.01 Extras
+  ## Lab02.01
   After completing the lab in the courseware:
   1. Create an Artist class in the com.javatunes.domain package.  Include an id (Long) attribute along with other attributes (you decide). Besure to include equals() and toString() methods.
   2. Update MusicItem, replacing the artist String with the Artist class. 
   3. Update the static block in SearchUtility that creates MusicItem.  Create 2 or 3 Artist objects, assigning them at random.  You will need to update the findByKeyword() method as well.
   
-  ## Lab03.01 Extra
-  Just make the changes to the Lab02.01 project, rather than creating a new Lab03.01 project like the book says.  This way we still have all the Artist changes.  
+  ## Lab03.01
+  Just make the changes to the Lab02.01 project, rather than creating a new Lab03.01 project like the book says.
   
-  ## Lab03.03 Extra
+  ## Lab03.03
   Make changes to the Lab02.01 project.  You may want to copy in TestRest.java from the Lab03.03 project into Lab02.01.
   You can also see the following site for an example (and just wing it):
   1. [MKYong](http://www.mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/)
@@ -42,7 +42,20 @@
   - jersey-client (1.19, not 1.19.3)
   - jackson-jaxrs-json-provider
   
+  ## Lab04.01
+  Continue in the Lab02.01 project.  This lab will only take a minute.  When done, switch it back to producing JSON.
   
+  ## Lab 05.01
+      Skip.  This uses the xjc compiler to generate classes from and XML schema.
+      
+  ## Lab 05.02
+      Continue in Lab02.01 project. Special setup is needed to shape the name of JSON properties using @XMLElement annotations.  See:
+      
+      - [Stackoverflow question](http://stackoverflow.com/questions/19601370/jackson-unable-to-consider-xmlelement-while-serializing-to-json)
+      
+      You instructor will assist in this setup.
+      
+      Skip the optional parts.  
   
   
   
