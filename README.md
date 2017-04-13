@@ -46,16 +46,18 @@
   Continue in the Lab02.01 project.  This lab will only take a minute.  When done, switch it back to producing JSON.
   
   ## Lab 05.01
-      Skip.  This uses the xjc compiler to generate classes from and XML schema.
+  Skip.  This uses the xjc compiler to generate classes from and XML schema.
       
   ## Lab 05.02
-      Continue in Lab02.01 project. Special setup is needed to shape the name of JSON properties using @XMLElement annotations.  See:
+  Continue in Lab02.01 project. Special setup is needed to shape the name of JSON properties using @XMLElement annotations.  See:
       
-      - [Stackoverflow question](http://stackoverflow.com/questions/19601370/jackson-unable-to-consider-xmlelement-while-serializing-to-json)
+  - [Stackoverflow question](http://stackoverflow.com/questions/19601370/jackson-unable-to-consider-xmlelement-while-serializing-to-json)
       
-      You instructor will assist in this setup.
+ Your instructor will assist in this setup.
       
-      Skip the optional parts.  
+ Skip the optional parts.  
+ 
+ 
   
   
   
