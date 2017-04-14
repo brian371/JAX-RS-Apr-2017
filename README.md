@@ -23,6 +23,10 @@
   - [URIInfo and @Context](https://abhirockzz.wordpress.com/2015/05/03/using-context-in-jax-rs-part-1/)
   - [GenericEntity](http://www.adam-bien.com/roller/abien/entry/jax_rs_returning_a_list)
   - [HATEOAS](https://dzone.com/articles/hypermedia-support-in-jax-rs-20)
+  
+  ## Angular2
+  - [Angular CLI](https://cli.angular.io/)
+  - [Angular2 JAX-RS Example](http://blog.siteos.de/java/javaee/angularjs2/2017/01/23/AngularJS2-JAXRS-Example-With-JAAS-And-CORS.html)
     
   ## Lab02.01
   After completing the lab in the courseware:
