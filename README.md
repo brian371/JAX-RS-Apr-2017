@@ -22,6 +22,7 @@
   - [Using Patch](http://kingsfleet.blogspot.be/2014/02/transparent-patch-support-in-jax-rs-20.html)
   - [URIInfo and @Context](https://abhirockzz.wordpress.com/2015/05/03/using-context-in-jax-rs-part-1/)
   - [GenericEntity](http://www.adam-bien.com/roller/abien/entry/jax_rs_returning_a_list)
+  - [Idempotency](https://www.safaribooksonline.com/library/view/restful-web-services/9780596809140/ch01s04.html)
   
   ## Angular2
   - [Angular CLI](https://cli.angular.io/)
