@@ -24,6 +24,9 @@
   - [GenericEntity](http://www.adam-bien.com/roller/abien/entry/jax_rs_returning_a_list)
   - [Idempotency](https://www.safaribooksonline.com/library/view/restful-web-services/9780596809140/ch01s04.html)
   
+  ## Coding Standards
+  - [Rest Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
+  
   ## Angular2
   - [Angular CLI](https://cli.angular.io/)
   - [Angular2 JAX-RS Example](http://blog.siteos.de/java/javaee/angularjs2/2017/01/23/AngularJS2-JAXRS-Example-With-JAAS-And-CORS.html)
