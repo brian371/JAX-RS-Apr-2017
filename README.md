@@ -26,6 +26,7 @@
   
   ## Coding Standards
   - [Rest Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
+  - [Rest Tips]http://www.restapitutorial.com/lessons/restquicktips.html()
   
   ## Angular2
   - [Angular CLI](https://cli.angular.io/)
