@@ -32,9 +32,10 @@
   - [Angular2 JAX-RS Example](http://blog.siteos.de/java/javaee/angularjs2/2017/01/23/AngularJS2-JAXRS-Example-With-JAAS-And-CORS.html)
   
   ## Security
+  - [Token Based Authentication with AngularJS](https://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543) 
   - [Java Security in a Nutshell](http://stackoverflow.com/questions/26777083/best-practice-for-rest-token-based-authentication-with-jax-rs-and-jersey)
   - [JAX-RS Security using JWT](https://avaldes.com/jax-rs-security-using-json-web-tokens-jwt-for-authentication-and-authorization/)
-  - [Token Based Authentication with AngularJS](https://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543)  
+   
     
   ## Lab02.01
   After completing the lab in the courseware:
