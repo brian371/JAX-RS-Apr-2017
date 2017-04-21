@@ -31,6 +31,7 @@
   - [Angular CLI](https://cli.angular.io/)
   - [Angular2 JAX-RS Example](http://blog.siteos.de/java/javaee/angularjs2/2017/01/23/AngularJS2-JAXRS-Example-With-JAAS-And-CORS.html)
   - [Token Based Authentication with AngularJS](https://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543)  
+  - [JAX-RS Security using JWT](https://avaldes.com/jax-rs-security-using-json-web-tokens-jwt-for-authentication-and-authorization/)
     
   ## Lab02.01
   After completing the lab in the courseware:
